@@ -18,3 +18,5 @@ Welcome to the HR Analytics project focusing on Attrition Rate Analysis using Po
 
 Employee attrition, or turnover, refers to the rate at which employees leave an organization, and its impact on workforce stability and organizational performance cannot be overstated. This HR Analytics project aims to delve deep into the factors influencing attrition and equip HR teams with the tools they need to make informed decisions.
 
+# [Project 6: Pizza Sales Analysis - SQL SERVER / EXCEL](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/blob/main/README.md)
+This project delves deep into the realm of data analysis, utilizing SQL and EXCEL to uncover crucial insights into Pizza sales. The featured eye-catching dashboards aid the pizza business in making informed decisions and strategic workforce planning, providing substantial benefits to the business.and to Analyze the key indications for our pizza sales data to gain insights into our business performance.
