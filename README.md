@@ -13,7 +13,7 @@ The Super Store Sales Power BI project is centered around the analysis of sales 
 # [Project 4: HR Data Analysis - SQL SERVER 2023 / POWER BI](https://github.com/PRATHAMESH9743/hr_data/blob/main/README.md)
 This project dives deep into the realm of data analysis using SQL and Power BI to uncover important human resource insights that can greatly benefit the company. Featuring eye-catching dashboards offer crucial HR metrics like employee turnover, diversity, recruitment efficacy and performance evaluations. These help HR professionals make informed decisions and strategic workforce planning.
 
-# [Project 5: HR Analytics Project - Attrition Rate Analysis with Power BI - 2023](https://github.com/PRATHAMESH9743/HR-ANALYTICS/blob/main/README.md)
+# [HR Analytics Project - Attrition Rate Analysis with Power BI](https://github.com/PRATHAMESH9743/HR-ANALYTICS/blob/main/README.md)
 Welcome to the HR Analytics project focusing on Attrition Rate Analysis using Power BI. In today's dynamic business landscape, understanding and managing employee attrition is crucial for organizations aiming to foster a healthy and productive work environment. This project harnesses the power of Power BI, a robust business intelligence tool, to provide insightful visualizations and analytics for HR professionals and decision-makers.
 
 Employee attrition, or turnover, refers to the rate at which employees leave an organization, and its impact on workforce stability and organizational performance cannot be overstated. This HR Analytics project aims to delve deep into the factors influencing attrition and equip HR teams with the tools they need to make informed decisions.
