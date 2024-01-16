@@ -20,3 +20,6 @@ Employee attrition, or turnover, refers to the rate at which employees leave an 
 
 # [Project 6: Pizza Sales Analysis - SQL SERVER / EXCEL](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/blob/main/README.md)
 This project delves deep into the realm of data analysis, utilizing SQL and EXCEL to uncover crucial insights into Pizza sales. The featured eye-catching dashboards aid the pizza business in making informed decisions and strategic workforce planning, providing substantial benefits to the business.and to Analyze the key indications for our pizza sales data to gain insights into our business performance.
+
+# [Project 7: SQL Project Music Store Analysis](https://github.com/PRATHAMESH9743/SQL_Project_Music_Store_Analysis/blob/main/README.md)
+The objective of this SQL project is to analyze a music store database and extract valuable insights to inform business decisions. The database contains information about employees, country, Genre, Artist, Track, Playlist, Playlist track, media type, invoices, invoices line, cities, and customers.
