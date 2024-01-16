@@ -24,5 +24,9 @@ This project delves deep into the realm of data analysis, utilizing SQL and EXCE
 # [Project 7: SQL Project Music Store Analysis](https://github.com/PRATHAMESH9743/SQL_Project_Music_Store_Analysis/blob/main/README.md)
 The objective of this SQL project is to analyze a music store database and extract valuable insights to inform business decisions. The database contains information about employees, country, Genre, Artist, Track, Playlist, Playlist track, media type, invoices, invoices line, cities, and customers.
 
-# [Project 8: Vrinda Store Data Analysis Excel](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/blob/main/README.md)
+# [Project 8: Ecommerce Sales Analysis Excel](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/blob/main/README.md)
+E-commerce sales involve the online buying and selling of goods or services, conducted through electronic platforms, providing businesses and consumers a convenient and accessible marketplace. This Excel-based E-commerce Sales Analysis project is designed to empower businesses in the online retail sector to gain valuable insights into their sales performance. By utilizing this spreadsheet, users can efficiently analyze and visualize key metrics related to total sales, profit, quantity, profit margin, number of orders, category-wise performance, sales distribution by state, and top-performing sub-categories.
+
+# [Project 9: Vrinda Store Data Analysis Excel](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/blob/main/README.md)
 Vrinda store wants to create an annual sales report for 2022. So that Vrinda can understand their customers and grow more sales in 2023
+
