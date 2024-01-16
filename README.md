@@ -23,3 +23,6 @@ This project delves deep into the realm of data analysis, utilizing SQL and EXCE
 
 # [Project 7: SQL Project Music Store Analysis](https://github.com/PRATHAMESH9743/SQL_Project_Music_Store_Analysis/blob/main/README.md)
 The objective of this SQL project is to analyze a music store database and extract valuable insights to inform business decisions. The database contains information about employees, country, Genre, Artist, Track, Playlist, Playlist track, media type, invoices, invoices line, cities, and customers.
+
+# [Project 8: Vrinda Store Data Analysis Excel](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/blob/main/README.md)
+Vrinda store wants to create an annual sales report for 2022. So that Vrinda can understand their customers and grow more sales in 2023
