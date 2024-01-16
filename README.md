@@ -9,3 +9,9 @@ This project delves deep into the realm of data analysis, utilizing SQL and Powe
 
 # [Project 3: Super Store Sales Power BI Project - 2023](https://github.com/PRATHAMESH9743/Super-Store-Sales-/blob/main/README.md)
 The Super Store Sales Power BI project is centered around the analysis of sales data, offering a user-friendly interface that enables users to explore and understand key trends, patterns, and performance metrics. By leveraging the power of Power BI, this project transforms raw sales data into meaningful visualizations and actionable insights. and to To contribute to the success of a business by utilizing data analysis techniques, specifically, focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
+# [Project 4: HR Data Analysis - SQL SERVER 2023 / POWER BI](https://github.com/PRATHAMESH9743/hr_data/blob/main/README.md)
+This project dives deep into the realm of data analysis using SQL and Power BI to uncover important human resource insights that can greatly benefit the company. Featuring eye-catching dashboards offer crucial HR metrics like employee turnover, diversity, recruitment efficacy and performance evaluations. These help HR professionals make informed decisions and strategic workforce planning.
+
+
+
