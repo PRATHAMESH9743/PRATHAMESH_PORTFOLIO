@@ -28,5 +28,5 @@ The objective of this SQL project is to analyze a music store database and extra
 E-commerce sales involve the online buying and selling of goods or services, conducted through electronic platforms, providing businesses and consumers a convenient and accessible marketplace. This Excel-based E-commerce Sales Analysis project is designed to empower businesses in the online retail sector to gain valuable insights into their sales performance. By utilizing this spreadsheet, users can efficiently analyze and visualize key metrics related to total sales, profit, quantity, profit margin, number of orders, category-wise performance, sales distribution by state, and top-performing sub-categories.
 
 # [Project 9: Vrinda Store Data Analysis Excel](https://github.com/PRATHAMESH9743/Vrinda_store_Analysis/blob/main/README.md)
-Vrinda store wants to create an annual sales report for 2022. So that Vrinda can understand their customers and grow more sales in 2023
+Vrinda store wants to create an annual sales report for 2022. So that Vrinda can understand their customers and grow more sales in 2023.this report aims to empower Vrinda to gain insights into customer behavior, product trends, and overall business performance. The information compiled in this report serves as a valuable resource for strategic decision-making and enhancing sales strategies in 2023.
 
